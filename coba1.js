@@ -6,7 +6,7 @@ function sayHello(person) {
 }
 const person = {
   firstName: "John",
-  lastName: "Doe",
+  lastName: "kazirikashi",
   age: 50,
   eyeColor: "blue",
 };
