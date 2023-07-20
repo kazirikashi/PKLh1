@@ -5,10 +5,10 @@ function sayHello(person) {
   console.log(person.eyeColor);
 }
 const person = {
-  firstName: "John",
-  lastName: "kazirikashi",
+  firstName: "azhar",
+  lastName: "gabrille",
   age: 50,
-  eyeColor: "blue",
+  eyeColor: "red",
 };
 
 sayHello(person);
